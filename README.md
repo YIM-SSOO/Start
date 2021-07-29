@@ -28,32 +28,7 @@
 ## 👩‍💻팀명 
 
 **운동하C조**
-<br><br>
-
-
-## :busts_in_silhouette:팀원
-
-
-### 권순
-
-- 홈짐 게시판 구현
-
-### 김신혜
-
-- 채팅 및 메세지 기능 구현
-
-### 김은비
-
-- 마이페이지 및 결제 기능 구현
-
-### 윤하연
-
-- 로그인 및 회원가입 기능 구현
-
-### 임수지
-
-- 트레이너 게시판 기능 구현
-  <br>
+<br>
 
 
 ## 💻 사용기술 / 개발환경
@@ -71,8 +46,8 @@
 ## 🏋️‍ 서비스 시연영상 & PPT
 
 [빌려줘 홈짐 영상]<br>
-[빌려줘 홈짐 PPT]
+[빌려줘 홈짐 PDF]
 <br>
 
-[빌려줘 홈짐 영상]:https://www.youtube.com/watch?v=1Xq7S1EAAXY
-[빌려줘 홈짐 PPT]:https://eunbi99.github.io/borrow-homegym/
+[빌려줘 홈짐 영상]:https://youtu.be/tjXGswDaIF0
+[빌려줘 홈짐 PDF]:https://YIM-SSOO.github.io
