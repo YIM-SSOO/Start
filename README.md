@@ -33,13 +33,14 @@
 
 ## 💻 사용기술 / 개발환경
 
-![image-20210729155337798](C:\Users\YIM\AppData\Roaming\Typora\typora-user-images\image-20210729155337798.png)
+![develop setting](C:\Users\YIM\Desktop\img4\develop setting.png)
 <br><br>
 
 
 ## 💿DB설계
 
-![image-20210729155404051](C:\Users\YIM\AppData\Roaming\Typora\typora-user-images\image-20210729155404051.png)
+
+![DB](C:\Users\YIM\Desktop\img4\DB.png)
 <br><br>
 
 
