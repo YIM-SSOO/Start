@@ -50,4 +50,4 @@
 <br>
 
 [빌려줘 홈짐 영상]:https://youtu.be/tjXGswDaIF0
-[빌려줘 홈짐 PDF]:https://YIM-SSOO.github.io
+[빌려줘 홈짐 PDF]:빌려줘홈짐(최종).pdf(https://github.com/YIM-SSOO/YIM-SSOO.github.io/files/6898974/default.pdf)
