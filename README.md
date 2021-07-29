@@ -33,14 +33,13 @@
 
 ## 💻 사용기술 / 개발환경
 
-![develop setting](C:\Users\YIM\Desktop\img4\develop setting.png)
+![develop setting](https://user-images.githubusercontent.com/81502053/127448105-f7b5dd0c-68fd-483e-88b9-aec869af3fd1.png)
 <br><br>
 
 
 ## 💿DB설계
 
-
-![DB](C:\Users\YIM\Desktop\img4\DB.png)
+![DB](https://user-images.githubusercontent.com/81502053/127448044-b9eddd28-8b93-42e3-a046-9f8033f80996.png)
 <br><br>
 
 
