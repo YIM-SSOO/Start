@@ -33,13 +33,13 @@
 
 ## 💻 사용기술 / 개발환경
 
-![image-20210715161805862](C:/DEV5/homegym/images/image-20210715161805862.png)
+![image-20210729155337798](C:\Users\YIM\AppData\Roaming\Typora\typora-user-images\image-20210729155337798.png)
 <br><br>
 
 
 ## 💿DB설계
 
-![image-20210715230957933](C:/DEV5/homegym/images/image-20210715230957933.png)
+![image-20210729155404051](C:\Users\YIM\AppData\Roaming\Typora\typora-user-images\image-20210729155404051.png)
 <br><br>
 
 
